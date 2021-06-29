@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee4446dcc7c72473aa53bb539c1bf20b",
+    "revision": "558aba8e588e59478d24cbc1668b44e5",
     "url": "/gobarberr/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gobarberr/static/js/2.240a17e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f84e02757cf3ea8d87f",
-    "url": "/gobarberr/static/js/main.ed13b0d0.chunk.js"
+    "revision": "6cf798433bdcc2271527",
+    "url": "/gobarberr/static/js/main.414c23fe.chunk.js"
   },
   {
     "revision": "7285eb5e58bcac150835",
