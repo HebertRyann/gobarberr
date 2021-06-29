@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gobarberr/precache-manifest.a443b558dfd8593a1a64e6d982d57c40.js"
+  "/gobarberr/precache-manifest.b96619f4b943df939886388f68f37a07.js"
 );
 
 self.addEventListener('message', (event) => {
