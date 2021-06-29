@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8bb836fce164ddeb487ecb2d491c5d51",
+    "revision": "febf609eee01979a6943beafd337919c",
     "url": "/gobarberr/index.html"
   },
   {
-    "revision": "a16a1318efd91c8976f8",
+    "revision": "53685f5392fabe3dfb53",
     "url": "/gobarberr/static/css/2.455cd81f.chunk.css"
   },
   {
-    "revision": "a16a1318efd91c8976f8",
-    "url": "/gobarberr/static/js/2.10e55413.chunk.js"
+    "revision": "53685f5392fabe3dfb53",
+    "url": "/gobarberr/static/js/2.c3a81190.chunk.js"
   },
   {
     "revision": "4472b9b1c403804b7335229d4dbf4deb",
-    "url": "/gobarberr/static/js/2.10e55413.chunk.js.LICENSE.txt"
+    "url": "/gobarberr/static/js/2.c3a81190.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a20155233a42fb2f09a3",
-    "url": "/gobarberr/static/js/main.3a525520.chunk.js"
+    "revision": "192fcbf7e4ccdfece1f3",
+    "url": "/gobarberr/static/js/main.fec46edb.chunk.js"
   },
   {
     "revision": "7285eb5e58bcac150835",
